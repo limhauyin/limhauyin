@@ -1,5 +1,5 @@
 
-<p  align="center"><img align="top" width="400" height="500" src="IMG_7406.jpg" ></p>
+<p  align="center"><img align="top" width="400" height="500" src="https://github.com/limhauyin/limhauyin/blob/master/IMG_7406.jpg" ></p>
 
 
 # Hi, I'm Lim Hau Yin 
