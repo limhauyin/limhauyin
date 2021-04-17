@@ -12,8 +12,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limhauyin&layout=compact)](https://github.com/limhauyin/github-readme-stats)
 
 
-<!--![](https://github-readme-stats.vercel.app/api?username=limhauyin&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)-
-
+<!--![](https://github-readme-stats.vercel.app/api?username=limhauyin&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515)
+-->
 ## Connect With me:
 
 [![Website](https://img.shields.io/badge/-www.imhauyin.com-green?style=flat-square&logo=Safari&logoColor=white&link=https://www.imhauyin.com)](https://www.imhauyin.com)
