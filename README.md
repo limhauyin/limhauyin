@@ -6,8 +6,7 @@
 
 ## About me 
 
-- 🔭 I’m currently working on AngularJS and Laravel.
-- 🌱 I’m currently learning AWS, NodeJS and React JS.
+
 - 💬 Please feel free to contact me ! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limhauyin&layout=compact)](https://github.com/limhauyin/github-readme-stats)
